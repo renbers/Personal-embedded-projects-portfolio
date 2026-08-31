@@ -37,7 +37,7 @@ flowchart LR
   <img src="assets/portfolio-images/keil-stm32-exti.png" width="48%" alt="STM32 EXTI 外部中断与板间 GPIO 触发" />
 </p>
 
-<p align="center">图 3 HT32：串口协议状态机及 CRC16 校验　　图 4 STM32：EXTI 外部中断与板间 GPIO 触发</p>
+<p align="center">图 3 HT32控制部分　　图 4 STM32控制部分</p>
 
 图 3 展示了 HT32 端 `Protocol.c` 的接收状态机、负载长度判断和 CRC16 校验流程；图 4 展示了 STM32 端的 GPIO 外部中断配置，用于接收 HT32 发出的板间动作触发脉冲。
 
