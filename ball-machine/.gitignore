@@ -1,0 +1,33 @@
+# Keil MDK build outputs
+Objects/
+Listings/
+*.o
+*.d
+*.crf
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.sct
+*.dep
+*.htm
+*.build_log.htm
+
+# Keil user/session files
+*.uvguix.*
+*.uvgui.*
+*.uvgui_*
+JLinkLog.txt
+JLinkSettings.ini
+
+# Local/editor files
+.vscode/
+.idea/
+*.swp
+*.tmp
+Thumbs.db
+Desktop.ini
+
