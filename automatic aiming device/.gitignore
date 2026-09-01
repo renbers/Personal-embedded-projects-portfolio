@@ -1,0 +1,16 @@
+Debug/
+Release/
+installers/
+backups/
+.codex/
+.settings/
+~$*.docx
+*.o
+*.d
+*.out
+*.map
+*.elf
+*.hex
+*.bin
+*.log
+*.tmp
