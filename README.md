@@ -6,8 +6,8 @@
 
 | 项目 | 主控平台 | 核心内容 |
 | --- | --- | --- |
-| [自动瞄准循迹车](automatic%20aiming%20device/README.md) | TI MSPM0G3507 | 灰度循迹、双轮编码器速度闭环、视觉串口通信、两自由度云台串级 PID 与激光使能控制 |
-| [宠物互动发球机](ball-machine/README.md) | STM32F103C8 + HT32F52352 | 双控制器协同、蓝牙短帧通信、飞轮发球、舵机拨球、底盘位置 PID、推杆与 OLED 调试显示 |
+| [自行瞄准装置](automatic%20aiming%20device/README.md) | TI MSPM0G3507 | 灰度循迹、双轮编码器速度闭环、视觉串口通信、两自由度云台串级 PID 与激光使能控制 |
+| [智能宠物球发球机](ball-machine/README.md) | STM32F103C8 + HT32F52352 | 双控制器协同、蓝牙短帧通信、飞轮发球、舵机拨球、底盘位置 PID、推杆与 OLED 调试显示 |
 
 ## 项目概览
 
